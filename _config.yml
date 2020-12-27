@@ -8,8 +8,8 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-url: "https://skylime2580.gitee.io/sfk"
-root: /sfk/
+url: "https://skylime2580.gitee.io/"
+root: /
 permalink: :category/:name/
 permalink_defaults: 
   category: Default
