@@ -1,0 +1,89 @@
+# Site
+title: 春田花花幼儿园
+subtitle: 终于等到你!
+description: 春田花花幼儿园官方网站
+keywords: 春田花花幼儿园
+author: 瓜瓜
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+url: "https://skylime2580.gitee.io/sfk"
+root: /sfk/
+permalink: :category/:name/
+permalink_defaults: 
+  category: Default
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md 
+default_layout: post
+titlecase: false 
+external_link:
+  enable: true 
+  field: site 
+  exclude: ''
+filename_case: 2
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+# Home Page Setting
+index_generator:
+  path: ''
+  per_page: 6
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Metadata Elements
+meta_generator: true
+
+# Date / Time Format
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 6
+pagination_dir: page
+
+# Include / Exclude Files
+include:
+exclude:
+ignore:
+
+# Extensions
+theme: BlinkFox
+
+# Deployment
+deploy:
+  type: ''
