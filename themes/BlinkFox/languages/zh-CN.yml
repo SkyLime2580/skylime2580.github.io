@@ -7,7 +7,7 @@ archives: 归档
 about: 关于
 contact: 留言板
 friends: 友情链接
-startRead: 开始阅读
+startRead: 来康康呀
 recommendedPosts: 推荐文章
 publishDate: 发布日期
 updateDate: 更新日期
@@ -44,7 +44,7 @@ from: 来源
 reprint: 版权声明
 author: 文章作者
 link: 文章链接
-use: 本博客所有文章除特別声明外，均采用
+use: 本站所有文章除特別声明外，均采用
 licensed: 许可协议。转载请注明来源
 cc_by_url: https://creativecommons.org/licenses/by/4.0/deed.zh
 cc_by_name: CC BY 4.0
